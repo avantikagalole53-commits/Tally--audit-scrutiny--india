@@ -1,4 +1,4 @@
-
+rev-parse main:README.md
 # Tally Audit Scrutiny India - AI-Powered Ledger Verification
 
 ## 📋 Overview
